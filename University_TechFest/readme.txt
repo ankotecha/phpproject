@@ -44,3 +44,6 @@ BIZZ BRAINZ				HUNTRONICS
 
 	Thus,This is a University Techfest website for the Students,by the students,of the students.
 	Any suggestions regarding the website are always welcomed. 
+	
+	
+	Changes by git
